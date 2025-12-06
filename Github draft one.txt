@@ -1,0 +1,38 @@
+📚 A DevOps Roadmap (If You Want to Learn)
+Stage 1: Foundations
+
+Linux basics
+
+Networking fundamentals
+
+Git workflows
+
+Stage 2: Automation
+
+Bash/Python
+
+CI pipelines (GitHub Actions, GitLab-CI, Jenkins)
+
+Stage 3: Infrastructure
+
+Docker
+
+Kubernetes
+
+Terraform (IaC)
+
+Stage 4: Delivery & Operations
+
+Cloud provider
+
+Monitoring & logging
+
+Security tools
+
+Stage 5: Culture & Collaboration
+
+Agile practices
+
+Blameless postmortems
+
+SRE principles
