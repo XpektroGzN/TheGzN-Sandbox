@@ -1,0 +1,71 @@
+                           ┌────────────────────────┐
+                           │   GRAND MASTER LEVEL   │
+                           │   DevOps Enlightenment │
+                           └───────────┬────────────┘
+                                       │
+                ┌──────────────────────┼──────────────────────┐
+                │                      │                      │
+        ┌───────▼───────┐      ┌───────▼───────┐      ┌───────▼───────┐
+        │  Leadership & │      │    SRE &       │      │     DevSecOps │
+        │ Team Harmony  │      │  Reliability   │      │     Path       │
+        └───────┬───────┘      └───────┬───────┘      └───────┬────────┘
+                │                      │                      │
+     ┌──────────▼──────────┐ ┌─────────▼─────────┐ ┌──────────▼──────────┐
+     │Collaboration Mastery│ │Chaos Engineering   │ │Security Automation   │
+     │Mentorship, Culture  │ │Incident Management │ │Secrets, Policies    │
+     └──────────────────────┘ └────────────────────┘ └──────────────────────┘
+
+                                       ▲
+                                       │  
+                           (advance when all paths below mastered)
+                                       │
+
+                  ┌────────────────────┴────────────────────┐
+                  │                                          │
+          ┌───────▼────────┐                        ┌────────▼─────────┐
+          │   INFRA PATH   │                        │   DELIVERY PATH   │
+          │  Knight Level  │                        │   Knight Level    │
+          └───────┬────────┘                        └────────┬──────────┘
+                  │                                          │
+     ┌────────────▼───────────┐                 ┌────────────▼───────────┐
+     │Infrastructure as Code  │                 │ CI/CD Flow Mastery      │
+     │Terraform, CloudFormation│                │Jenkins, GitHub Actions  │
+     └────────────┬───────────┘                 └────────────┬───────────┘
+                  │                                          │
+     ┌────────────▼────────┐                    ┌────────────▼───────────┐
+     │ Container Control    │                    │ Testing Automation      │
+     │ Docker, Images, etc │                    │ Unit, E2E, Shift-Left   │
+     └────────────┬────────┘                    └────────────┬───────────┘
+                  │                                          │
+     ┌────────────▼───────────┐                 ┌────────────▼────────────┐
+     │Kubernetes Discipline    │                 │ GitOps Mastery          │
+     │Pods, Deployments, Helm │                 │ArgoCD, Flux             │
+     └────────────────────────┘                 └──────────────────────────┘
+
+                                       ▲
+                                       │  
+                           (advance when both paths complete)
+                                       │
+
+                  ┌────────────────────┴────────────────────┐
+                  │                                          │
+        ┌─────────▼──────────┐                   ┌───────────▼──────────┐
+        │   FOUNDATION PATH  │                   │  AUTOMATION PATH      │
+        │   Padawan Level    │                   │   Padawan Level       │
+        └─────────┬──────────┘                   └───────────┬──────────┘
+                  │                                          │
+     ┌────────────▼──────────┐                ┌──────────────▼───────────┐
+     │ Git Saber Training    │                │ Scripting & Runes of Code │
+     │ Branching, Merge, PRs │                │ Bash, Python, PowerShell  │
+     └────────────┬──────────┘                └──────────────┬───────────┘
+                  │                                          │
+     ┌────────────▼──────────┐                ┌──────────────▼───────────┐
+     │ Linux Temple Basics   │                │ Automation Mindset        │
+     │ Shell, Processes, etc │                │ “Automate what repeats”   │
+     └────────────┬──────────┘                └──────────────┬───────────┘
+                  │                                          │
+     ┌────────────▼──────────┐                ┌──────────────▼───────────┐
+     │ Networking Awareness   │                │ Versioning Discipline     │
+     │ DNS, Ports, Firewalls  │                │ Tags, Releases, Standards │
+     └────────────────────────┘                └───────────────────────────┘
+
