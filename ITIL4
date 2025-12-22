@@ -1,0 +1,97 @@
+[ Start Here ]  
+     [Date: 12/22/2025]
+      |
+      v
+[ ITIL 4 Overview ]
+- What is ITIL? > A framework designed to manage service organizations 
+- Why ITIL 4 exists > Help lead the 4h revolution of technology for mankind
+- Value of Service Management
+      |   > ITSM Helps all organizations, regardless of their industry or business sector, provide their IT services using the most efficient
+      |   > Best practices & efficient operations.
+      |   > Service Management is defined as a set of specialized organizational capabilities for enabling value to customers in
+      |   > The form of services.
+      |   >  Value is perceived and as such is baeed on the recipients perception. Value is subjective.
+      |   > Perceived benefits, usefulness, and importance of "something"
+      v   
+[ Service Value System (SVS) ] > Means of enabling value co-creation by facilitating outcomes that customers want to achieve,
+      |   > without the customer having to manage specific costs and risks.
+- Guiding Principles
+- Governance
+-  Opportunity > Service Value Chain > Value
+
+  [Service Valuce Chain ] activities
+      |  > 1. Plan
+      |  > 2. Improve
+      |  > 3. Engage
+      |  > 4. Design and Transition
+      |  > 5. OBtain and Buid
+      |  > 6. Deliver and Support
+- Continual Improvement
+      |
+      | > Warranty: Defined as a the assurance that a product or service will meet agreed requirements.
+      |   > When a service is referred to as "fit for use". 
+      |   > Warranty is usually concerned with availability, capacity, capability, and security requirements.
+      v
+[ 7 Guiding Principles ]
+- Focus on Value
+- Start Where You Are
+- Progress Iteratively
+- Collaborate & Promote Visibility
+- Think & Work Holistically
+- Keep It Simple
+- Optimize & Automate
+      |
+      v
+[ Four Dimensions of Service Management ]
+- Organizations & People  > vary in size, complexity, legal structure 
+- Information & Technology
+- Partners & Suppliers
+- Value Streams & Processes
+      |
+      v
+[ ITIL Practices (Foundation Level) ]
+- General Management (Change, Incident, Problem)
+- Service Management (Service Desk, Request Mgmt)
+- Technical Management (Deployment, Monitoring)
+      |
+      v
+[ ITIL 4 Foundation Exam ]
+- Terminology
+- Concepts
+- Practice purpose (NOT deep execution)
+      |
+      v
+[ Specialization Paths ]
+      |
+      +--> [ Managing Professional (MP) ]
+      |       - Create, Deliver & Support
+      |       - Drive Stakeholder Value
+      |       - High Velocity IT
+      |       - Direct, Plan & Improve
+      |
+      +--> [ Strategic Leader (SL) ]
+              - Direct, Plan & Improve
+              - Digital & IT Strategy
+      |
+      v
+[ ITIL Master ]
+- Real-world application
+- Value stream optimization
+- Leadership & strategy
+
+
+
+[ RISK in ITIL 4]
+- Risk is about uncertainty that affects value creation.
+- Reduce service quality
+- Disrupt value streams
+- Increase cost or downtime
+- Damage trust and customer experience
+
+[Guiding Principles]
+- Defined as a recommendation that can guide an organization in all circumstances
+- and will guide organizations when adopting service management. They are not described as prescripte
+  > mandatory 
+
+
+
