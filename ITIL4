@@ -15,18 +15,21 @@
       v   
 [ Service Value System (SVS) ] > Means of enabling value co-creation by facilitating outcomes that customers want to achieve,
       |   > without the customer having to manage specific costs and risks.
-- Guiding Principles
-- Governance
--  Opportunity > Service Value Chain > Value
-
-  [Service Valuce Chain ] activities
+-
+[Service Value System Components ]
+     1. > Practices
+     2. > Guiding Principles
+     3. > Governance
+     4. > [Service Valuce Chain ] activities
+          >  Opportunity > Service Value Chain > Value
       |  > 1. Plan
       |  > 2. Improve
       |  > 3. Engage
       |  > 4. Design and Transition
       |  > 5. OBtain and Buid
       |  > 6. Deliver and Support
-- Continual Improvement
+
+     5. >  Continual Improvement
       |
       | > Warranty: Defined as a the assurance that a product or service will meet agreed requirements.
       |   > When a service is referred to as "fit for use". 
@@ -51,6 +54,9 @@
       v
 [ ITIL Practices (Foundation Level) ]
 - General Management (Change, Incident, Problem)
+          > Change Enablement
+               > The need to make beneficial changes.
+               > The need to proctect customers and users from the adverse effect of changes.
 - Service Management (Service Desk, Request Mgmt)
 - Technical Management (Deployment, Monitoring)
       |
