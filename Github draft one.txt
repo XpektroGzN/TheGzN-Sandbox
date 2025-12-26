@@ -35,4 +35,16 @@ Agile practices
 
 Blameless postmortems
 
+
 SRE principles
+
+
+EXAMPLE SERVICE VALUE STREAMS:
+
+K Service incident response>
+Cybersecurity incident response
+Major incident response
+How each service in the service catalog is delivered
+How a service is adapted to meet new requirements
+How new services are created and delivered according to agile and DevOps practices
+How new services are created and delivered according to a traditional waterfall process
