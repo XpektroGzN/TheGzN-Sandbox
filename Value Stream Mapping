@@ -1,0 +1,27 @@
+Sample used as a IT ticket
+
+
+[User Request]
+   │ > this comes either via: e-mail, phonecall or through ticketing system
+   ▼
+[Smart Intake Form]
+   │  (Complete info) (problem description - near-end info [IP,S/N,MAC,Host,Subnet-Timestamps etc]
+   |  > SharePoint Form or Google Forms 
+   ▼  
+[Auto-Routed Ticket]
+   │
+   ▼
+[Tier 2]
+   │  (30 min)
+   |  > Concierge can decrease the elapsed time from 30 to 15 mins via using Teams chat to engage MCS
+   ▼
+[Fix Applied]
+   │
+   |  > Fix needs to be tested <-> engage with end-user may be required based on issue type.
+   ▼
+[Auto-Confirmation]
+   │
+   |  > Auto-confirmation can be enabled post three-strikes no reply is triggered
+   |  > (trigger would be three e-mails out with no reply) / send automated e-mail from CDAX.
+   ▼
+[Closed]
