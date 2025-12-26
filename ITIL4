@@ -15,9 +15,52 @@
 [ Service Value System (SVS) ] > Means of enabling value co-creation by facilitating outcomes that customers want to achieve,
       |   > without the customer having to manage specific costs and risks.
 -
-[Service Value System Components ]
+[Serice Value System Components ]
      1. > Practices
      2. > Guiding Principles
+      |     >[ 7 Guiding Principles ]
+      |     Q: What is correct about the guiding principles?
+      | > They are recommendatiosn that can guide an organization in all circumstances.
+- Focus on Value: 
+     > Deliver value to the stakeholders. (who are the Stakeholder?) the people that pay for service.
+     > Understand what is truly of value to the service customer.
+     > Understand customer experience for best service.
+- Start Where You Are
+     > Not start over without seeing what is currently available.
+     > clear view of the current situation in order to build something new.
+     >
+- Progress Iteratively with feedback
+ [Focuses on breaking work into smaller more manageable parts so it can be completed in a timely manner]
+     > Organize in smaller, manageable sections that can be executed in a timely manner.
+     > Iteratiosn must be continously evaluated to ensure focus on value is still there as guiding principle.
+     > Request Feedback as you go along to uncover issues or failures.
+     > Strive for MVPs (Minimum Valuable Products)
+
+- Collaborate & Promote Visibility
+     > Keep track of the flow of work in progress, identify bottlenecks and uncover waste.
+     > Right employees for roles and responsibilities
+          > Collaboration and communications
+          > Subject to change based on stakeholders need.
+     > invlve, working with, include as many people as possible.
+          > Best ideas come from unlikely sources.
+          > Communicate as often as possible.
+- Think & Work Holistically
+     > All is connected. No service, practice, process, department or supplier stands alone.
+     > clear communication, automation and a clear view of patterns
+     > All acitivities align with the same focus on delivering value.
+          > Consider the 4 dimensions of service management.
+- Keep It Simple (& practical)
+     > Use minimum number of steps for everything.
+          > CDrating value, improving customer experience, task you do.  
+     > Erase steps of no value so only value remains
+     > Focusing on value is key to this step.
+- Optimize & Automate
+      > Standardize and streamline manual tasks by replacing humans with technology were possible.
+      > Reduce Cost and human error
+      > Improve efficiency of standard process so that humans can be used for more complex tasks.
+
+     > Consider the 4 dismensions when determining how to optimize.
+
      3. > Governance
      4. > [Service Valuce Chain ] activities
           >  Opportunity > Service Value Chain > Value
@@ -29,42 +72,42 @@
       |  > 6. Deliver and Support
 
      5. >  Continual Improvement
-      |
+      | > [ A model providing a structured approach for implementing improvements.
+               > Helps link improvements to overall
+      | > {What is the Vision?
+          > Measured by business goal/mission/objectives
+      | > Where are we now?
+      | > Where do we want to be?
+      |    > Metrics:
+               > specific
+               > measurable
+               > achievable
+               > relevant
+               > Time bound
+     `|  > How do we get there? 
+               > Service Improvement Plans
+               > Process improvement Plans.
+          [ Determine various activities and processes can be improved upon to add value that stakeholders
+          [ are expecting.
+      |  > Take Action:
+          > Execution of Imrprovements.
+      | > Did we get there?
+      | > How do we maintain momentum?
+           - Market / Reinforce.
+      | > 
       | > Warranty: Defined as a the assurance that a product or service will meet agreed requirements.
       |   > When a service is referred to as "fit for use". 
       |   > Warranty is usually concerned with availability, capacity, capability, and security requirements.
-      v
-[ 7 Guiding Principles ]
-- Focus on Value: 
-     > Deliver value to the stakeholders. (who are the Stakeholder?) the people that pay for service.
-     > Understand what is truly of value to the service customer.
-     > Understand customer experience for best service.
-- Start Where You Are
-     > Not start over without seeing what is currently available.
-     > clear view of the current situation in order to build something new.
-     >
-- Progress Iteratively with feedback
-     > Organize in smaller, manageable sections that can be executed in a timely manner.
-     > Iteratiosn must be continously evaluated to ensure focus on value is still there as guiding principle.
-- Collaborate & Promote Visibility
-     > Keep track of the flow of work in progress, identify bottlenecks and uncover waste.
-     > Right employees for roles and responsibilities
-          > Collaboration and communications
-          > Subject to change based on stakeholders need.
-- Think & Work Holistically
-     > All is connected. No service, practice, process, department or supplier stands alone.
-     > clear communication, automation and a clear view of patterns
-     > All acitivities align with the same focus on delivering value.
-- Keep It Simple
-- Optimize & Automate
-      |
-      v
+       
+
+
+
 [ Four Dimensions of Service Management ]
 - Organizations & People  > vary in size, complexity, legal structure 
 - Information & Technology
 - Partners & Suppliers
 - Value Streams & Processes
-      |
+      > 
       v
 [ ITIL Practices (Foundation Level) ]
 - General Management (Change, Incident, Problem)
