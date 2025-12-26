@@ -68,10 +68,22 @@
       |     >  Opportunity > Service Value Chain > Value
       |  > 1. Plan
       |  > 2. Improve
+               > Focus on continous improvement of the following across all value chain activities:
+                    - Products
+                    - Practies
+                    - Resources
+                    - Procedures
       |  > 3. Engage
+               > Focuses on Stakeholders needs, and communication with stakeholders.
       |  > 4. Design and Transition
+               > Focuses on meeting expectations on deliverable requirements
+                    > Quality (functionality)  / Cost (budget) / Time (schedule)
       |  > 5. Obtain and Build
+               > Ensure service componentns are available when and where as needed to meet agreed specifications.
+                    - Focuses on procurement or building of service components.
       |  > 6. Deliver and Support
+               > Day-to-Day delivery of services based on agreed specificiations.
+               > Ongoing support and improvement of services to meet user expectations.
 
      5. >  Continual Improvement
       | > [ A model providing a structured approach for implementing improvements.
@@ -109,8 +121,11 @@
 - Information & Technology
 - Partners & Suppliers
 - Value Streams & Processes
-      > 
-      v
+      > Specific combinations of SVC acitivites coupled with various practices to accomplish an objective.
+          > Provides steps that are needed to successfully deliver a service to a consumer.
+          > Each value stream wil be designed to accomplish a specific goal, task, objective.
+
+      >
 [ ITIL Practices (Foundation Level) ]
 - General Management (Change, Incident, Problem)
           > Change Enablement
