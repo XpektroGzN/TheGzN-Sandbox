@@ -133,6 +133,62 @@
                > The need to proctect customers and users from the adverse effect of changes.
 - Service Management (Service Desk, Request Mgmt)
 - Technical Management (Deployment, Monitoring)
+- Incident Management
+          > The practice of minimizing the negative impact of incidents by restoring normal service operations as quickly as possible.
+               > Goal: Resore norma service as quickly as possible and minimize business impact.
+                    > Key Roles: Creating incidents records, diagnostics and resolving incdients.
+                         > escalating incidents to support teams for resolution.
+
+          >Flow
+      🔄 The Incident Management Flow (Exam Gold)
+     |
+     |
+     |    >  - Detection & Logging
+          - User reports issue
+          - Monitoring detects failure
+     |
+     |    > Incident is logged
+               Categorization
+
+
+
+
+
+What type of issue?
+
+Helps routing & reporting
+
+Prioritization
+
+Based on Impact × Urgency
+
+Determines response speed
+
+Initial Diagnosis
+
+Service desk tries to resolve
+
+Use known errors & scripts
+
+Escalation (if needed)
+
+Functional (to another team)
+
+Hierarchical (to management)
+
+Resolution & Recovery
+
+Fix applied
+
+Service restored
+
+Closure
+
+Confirm with user
+
+Document resolution
+
+👉 Memorize this flow. It appears everywhere on the exam.
       |
       v
 [ ITIL 4 Foundation Exam ]
