@@ -9,6 +9,19 @@ Practice: A set of organizational resources designed for performing work or acco
   > Information security management
 
 [ Service Management Practices ]
+  > Problem Management
+      - Problem identification
+        > Review incident records to identify trends (Trend Analysis)
+        > Monitoring Tool detects a change of state for a service.
+        > Reviewing information provided by software/hardware developers
+      - Problem Control
+        > Understanding the problem and prioritize the problem based on:
+          > Business Risk (Risk Assessment)
+          > Document the steps in a workaround
+      - Error Control 
+          > Regular re-assessment of current workarounds.
+          > Asses each time a workaround is applied.
+        
 [ Technical Management Practices]
 
 |
