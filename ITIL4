@@ -132,6 +132,13 @@
                > The need to make beneficial changes.
                > The need to proctect customers and users from the adverse effect of changes.
 - Service Management (Service Desk, Request Mgmt)
+          > Monitoring and Event Management Practice
+               > Goal: Practice of systematically observing services and service components and recording and reporting selected changes of state identified as events.
+               > Helps to identify and respond to current or potential problems or incidents
+                    (reactively or proactively)
+               > Event: Any changes of state that has significance for the management of a servie or other configuration item.
+               > Recognized through notifications created by the service,  configuration items or  monitoring tool
+
 - Technical Management (Deployment, Monitoring)
 - Incident Management
           > The practice of minimizing the negative impact of incidents by restoring normal service operations as quickly as possible.
