@@ -13,7 +13,8 @@
       |   > Perceived benefits, usefulness, and importance of "something"
       v   
 [ Service Value System (SVS) ] > Means of enabling value co-creation by facilitating outcomes that customers want to achieve,
-      |   > without the customer having to manage specific costs and risks.
+      |   > without the customer having to manage specific costs and risks
+	  |	  > ITIL Concept that describes guiding pricinples
 -
 [Serice Value System Components ]
      1. > Practices
@@ -28,7 +29,7 @@
 - Start Where You Are
      > Not start over without seeing what is currently available.
      > clear view of the current situation in order to build something new.
-     >
+     > 
 - Progress Iteratively with feedback
  [Focuses on breaking work into smaller more manageable parts so it can be completed in a timely manner]
      > Organize in smaller, manageable sections that can be executed in a timely manner.
