@@ -1,0 +1,24 @@
+
+At the heart of the Service Value System (SVS) The service value chain is a flexible operating model for creating, delivering, and
+continous improving of services.
+
+[Six key activities] within the ITIL Service Value Chain
+
+- Plan
+- Improve
+- Engage
+- Design and transition
+- Obtain/ Build
+- Deliver and Support
+
+
+Plan > improve > Engage > Design and transition > Obtain/Build > Deliver and Support.
+
+   P 
+   I
+   E 
+   D (t)
+   O (b)
+   D (s)
+   
+  
