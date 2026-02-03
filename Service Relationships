@@ -1,5 +1,40 @@
 Describe the key concepts of service relationships:
-    a) Service offering
+    a) Service offering:
+         A service offering is a description of one or more services designed to meet the needs of a target consumer group.
+            It may include:
+                Goods (e.g., hardware, licenses)
+                Access to resources (e.g., cloud platforms, apps)
+                Service actions (e.g., support, maintenance)
+
     b) Service relationship management
-    c) Service provision
+        is the joint activities performed by a service provider and a service consumer to ensure continual value co-creation.
+            It includes:
+                Service provision
+                Service consumption
+                Key idea:
+                Value is co-created, not delivered one-way.
+                
+                👉 Example:
+                Regular reviews, feedback sessions, SLAs, and improvement discussions between IT and the business.
+
+    c) Service provision:
+        Service provision refers to the activities performed by the service provider to deliver services.
+            This includes:
+                Managing provider resources
+                Ensuring service accessibility
+                Fulfilling agreed service actions
+                Managing service levels and improvements
+
+                👉 Example:
+                IT maintaining servers, monitoring uptime, applying patches, and responding to incidents.
+
     d) Service consumption
+        Service consumption refers to the activities performed by the service consumer when using a service.
+            This includes:
+                Using the service
+                Managing consumer resources
+                Requesting service actions
+                Participating in value realization
+
+                👉 Example:
+                Employees using email, submitting support tickets, following security policies.
