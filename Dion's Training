@@ -1,0 +1,15 @@
+Definition of a configuration Item.
+- Any component that needs to be managed in order to deliver an IT service.
+
+Why should service desk staff detect recurring issues?
+ . Help identify problems.
+
+Incident Management
+  > Scripts for collecting initial information about incidents.
+  > Loggin an incident
+  > Loggin unplanned reduction in the quality of service.
+
+Problem Management
+  > Detecting duplicate and recurring issues.
+  > Performing trend analysis of incdient records.
+  > Analysis of multiple incdients that may be liked together.
