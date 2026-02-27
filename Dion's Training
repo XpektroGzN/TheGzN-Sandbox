@@ -2,7 +2,10 @@ Definition of a configuration Item.
 - Any component that needs to be managed in order to deliver an IT service.
 
 Why should service desk staff detect recurring issues?
- . Help identify problems.
+ > Help identify problems.
+ > Contributes to problem management
+ > Improves service quality
+ > Supports continual improvement
 
 Incident Management
   > Scripts for collecting initial information about incidents.
@@ -11,9 +14,9 @@ Incident Management
 
 Problem Management
   > Detecting duplicate and recurring issues.
-  > Performing trend analysis of incdient records.
-  > Analysis of multiple incdients that may be liked together.
+  > Performing trend analysis of incident records.
+  > Analysis of multiple incidents that may be liked together.
 
 Service consumption refers to the activities performed by an organization to consume services
- > which includes the management of the consumer's resources needed to use the service
+ > which includes the management of the consumer's resources needed to use the service.
  > service use actions performed by users, and may include the receiving (acquiring) of goods.
