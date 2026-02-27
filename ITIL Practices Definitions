@@ -1,9 +1,9 @@
 
-Know the purpose and key terms of 15 ITIL Practices [ 12/26/2025]
+Know the purpose and key terms of 15 ITIL Practices [ 12/26/2025 > 02/27]
 
 Practice: A set of organizational resources designed for performing work or accomplishing an objective.
 
-|[ General Management Practices ]
+| General Management Practices ]
   > Continual Improvement
     -  
   > Information security management
@@ -14,7 +14,7 @@ Practice: A set of organizational resources designed for performing work or acco
         > Review incident records to identify trends (Trend Analysis)
         > Monitoring Tool detects a change of state for a service.
         > Reviewing information provided by software/hardware developers
-      - Problem Control
+  > Problem Control
         > Understanding the problem and prioritize the problem based on:
           > Business Risk (Risk Assessment)
           > Document the steps in a workaround
@@ -23,7 +23,3 @@ Practice: A set of organizational resources designed for performing work or acco
           > Asses each time a workaround is applied.
         
 [ Technical Management Practices]
-
-|
-|
-> 
