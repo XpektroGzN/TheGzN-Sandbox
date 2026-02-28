@@ -11,14 +11,16 @@
       |   > ITSM Helps all organizations, regardless of their industry or business sector, provide their IT services using the most efficient
       |   > Best practices & efficient operations.
       |   > Service Management is defined as a set of specialized organizational capabilities for enabling value to customers in the form of services.
-      |   > Value is perceived and as such is bas ed on the recipients perception. Value is subjective.
+      |   > Value is perceived and as such is based on the recipients perception. Value is subjective.
       |   > Perceived benefits, usefulness, and importance of "something"
-      v   
+
+	  v   
+
 [ Service Value System (SVS) ] > Means of enabling value co-creation by facilitating outcomes that customers want to achieve,
-      |   > without the customer having to manage specific costs and risks
-	  |	  > ITIL Concept that describes guiding pricinples
+      |   > without the customer having to manage specific costs and risks.
+	  |	  > ITIL Concept that describes guiding principles
 -
-[Serice Value System Components ]
+[Service Value System Components ]
      1. > Practices
      2. > Guiding Principles
       |     >[ 7 Guiding Principles ]
@@ -31,11 +33,12 @@
 - Start Where You Are
      > Not start over without seeing what is currently available.
      > clear view of the current situation in order to build something new.
-     > 
+
+	 <>
 - Progress Iteratively with feedback
  [Focuses on breaking work into smaller more manageable parts so it can be completed in a timely manner]
      > Organize in smaller, manageable sections that can be executed in a timely manner.
-     > Iteratiosn must be continously evaluated to ensure focus on value is still there as guiding principle.
+     > Iterations must be continously evaluated to ensure focus on value is still there as a guiding principle.
      > Request Feedback as you go along to uncover issues or failures.
      > Strive for MVPs (Minimum Valuable Products)
 
@@ -44,7 +47,7 @@
      > Right employees for roles and responsibilities
           > Collaboration and communications
           > Subject to change based on stakeholders need.
-     > invlve, working with, include as many people as possible.
+     > involve, working with, include as many people as possible.
           > Best ideas come from unlikely sources.
           > Communicate as often as possible.
 - Think & Work Holistically
@@ -65,15 +68,15 @@
      > Consider the 4 dismensions when determining how to optimize.
 
      3. > Governance
+			> (not seen much in ITIL 4 Foundation.
      4. > [Service Valuce Chain ]
-      |     > [ Operating Model for service providers t hat cover al the key activities required to effectively manage products and services.
-               Operating model for service providers that covers all key activities required to effectively manage products and services
-      |     >  Opportunity > Service Value Chain > Value
+      |     > Operating Model for service providers that cover all the key activities required to effectively manage products and services.
+      |     > Opportunity > Service Value Chain > Value
       |  > 1. Plan
       |  > 2. Improve
                > Focus on continous improvement of the following across all value chain activities:
                     - Products
-                    - Practies
+                    - Practices
                     - Resources
                     - Procedures
       |  > 3. Engage
@@ -82,10 +85,10 @@
                > Focuses on meeting expectations on deliverable requirements
                     > Quality (functionality)  / Cost (budget) / Time (schedule)
       |  > 5. Obtain and Build
-               > Ensure service componentns are available when and where as needed to meet agreed specifications.
+               > Ensure service components are available when and where as needed to meet agreed specifications.
                     - Focuses on procurement or building of service components.
       |  > 6. Deliver and Support
-               > Day-to-Day delivery of services based on agreed specificiations.
+               > Day-to-Day delivery of services based on agreed specifications.
                > Ongoing support and improvement of services to meet user expectations.
 
      5. >  Continual Improvement
@@ -103,60 +106,63 @@
                > Time bound
      `|  > How do we get there? 
                > Service Improvement Plans
-               > Process improvement Plans.
-          [ Determine various activities and processes can be improved upon to add value that stakeholders
-          [ are expecting.
+               > Process improvement Plans
+          [ Determine various activities and processes can be improved upon to add value that stakeholders are expecting.
       |  > Take Action:
-          > Execution of Imrprovements.
+          > Execution of Improvements.
       | > Did we get there?
       | > How do we maintain momentum?
            - Market / Reinforce.
-      | > 
+      
       | > Warranty: Defined as a the assurance that a product or service will meet agreed requirements.
       |   > When a service is referred to as "fit for use". 
       |   > Warranty is usually concerned with availability, capacity, capability, and security requirements.
        
-
-
-
 [ Four Dimensions of Service Management ]
 - Organizations & People  > vary in size, complexity, legal structure 
 - Information & Technology
 - Partners & Suppliers
 - Value Streams & Processes
-      > Specific combinations of SVC acitivites coupled with various practices to accomplish an objective.
+      > Specific combinations of SVC activities coupled with various practices to accomplish an objective.
           > Provides steps that are needed to successfully deliver a service to a consumer.
           > Each value stream wil be designed to accomplish a specific goal, task, objective.
 
-      >
+
+=======================================================================================================================      
 [ ITIL Practices (Foundation Level) ]
 - General Management (Change, Incident, Problem)
           > Change Enablement
-               > The need to make beneficial changes.
-               > The need to proctect customers and users from the adverse effect of changes.
+               > The need to make beneficial changes
+               > The need to protect customers and users from the adverse effect of changes.
+
 - Service Management (Service Desk, Request Mgmt)
-          > Monitoring and Event Management Practice
+
+
+ > Monitoring and Event Management Practice
                > Goal: Practice of systematically observing services and service components and recording and reporting selected changes of state identified as events.
                > Helps to identify and respond to current or potential problems or incidents
                     (reactively or proactively)
-               > Event: Any changes of state that has significance for the management of a servie or other configuration item.
-               > Recognized through notifications created by the service,  configuration items or  monitoring tool
+               > Event: Any changes of state that has significance for the management of a service or other configuration item.
+               > Recognized through notifications created by the service,  configuration items or monitoring tool
 
 - Technical Management (Deployment, Monitoring)
+
+
 - Incident Management
           > The practice of minimizing the negative impact of incidents by restoring normal service operations as quickly as possible.
-               > Goal: Resore norma service as quickly as possible and minimize business impact.
-                    > Key Roles: Creating incidents records, diagnostics and resolving incdients.
+               > Goal: Restore normal service as quickly as possible and minimize business impact.
+                    > Key Roles: Creating incidents records, diagnostics and resolving incidents.
                          > escalating incidents to support teams for resolution.
 
           >Flow
-      🔄 The Incident Management Flow (Exam Gold)
-     |
-     |
-     |    >  - Detection & Logging
-          - User reports issue
-          - Monitoring detects failure
-     |
+
+ 🔄 The Incident Management Flow (Exam Gold)
+     
+     
+     |    > Detection & Logging
+          	- User reports issue
+          		- Monitoring detects failure
+     
      |    > Incident is logged
                Categorization
 
@@ -166,17 +172,17 @@
 
 What type of issue?
 
-Helps routing & reporting
+	Helps routing & reporting
 
 Prioritization
 
-Based on Impact × Urgency
+	Based on Impact × Urgency
 
-Determines response speed
+	Determines response speed
 
-Initial Diagnosis
+	Initial Diagnosis
 
-Service desk tries to resolve
+	Service desk tries to resolve
 
 Use known errors & scripts
 
