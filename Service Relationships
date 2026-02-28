@@ -18,7 +18,7 @@ Describe the key concepts of service relationships:
                 Regular reviews, feedback sessions, SLAs, and improvement discussions between IT and the business.
 
     c) Service provision:
-        Service provision refers to the activities performed by the service provider to deliver services.
+       - Service provision refers to the activities performed by the service provider to deliver services.
             This includes:
                 Managing provider resources
                 Ensuring service accessibility
@@ -29,7 +29,7 @@ Describe the key concepts of service relationships:
                 IT maintaining servers, monitoring uptime, applying patches, and responding to incidents.
 
     d) Service consumption
-        Service consumption refers to the activities performed by the service consumer when using a service.
+        - Service consumption refers to the activities performed by the service consumer when using a service.
             This includes:
                 Using the service
                 Managing consumer resources
@@ -43,10 +43,10 @@ Describe the key concepts of service relationships:
 
 🔑 Exam-friendly summary
 
-Service offering → What is offered to the customer
-
-Service relationship management → How provider and consumer work together
-
-Service provision → What the provider does
-
-Service consumption → What the consumer does
+    > Service offering → What is offered to the customer
+    
+    > Service relationship management → How provider and consumer work together
+    
+    > Service provision → What the provider does
+    
+    > Service consumption → What the consumer does
