@@ -14,6 +14,8 @@ Practice: A set of organizational resources designed for performing work or acco
         > Review incident records to identify trends (Trend Analysis)
         > Monitoring Tool detects a change of state for a service.
         > Reviewing information provided by software/hardware developers
+        > Practice of reducing the likelihood and impact of incidents by identifying actual and potential causes of incidents and managing workarounds and known erros.
+
   > Problem Control
         > Understanding the problem and prioritize the problem based on:
           > Business Risk (Risk Assessment)
@@ -23,3 +25,16 @@ Practice: A set of organizational resources designed for performing work or acco
           > Asses each time a workaround is applied.
         
 [ Technical Management Practices]
+
+[IT Asset Management Practices]
+  > IT Asset
+      > Planning and managing the full lifecyle of all IT assets.
+
+
+  
+[Obtain/Build] => service value chain activity that ensures service components are available when and where they are needed and meet agreed specifications.
+
+Where do we want to be? is the third step
+Standard Change . predefined fully documented, risks well understood.
+Normal change: Needs approval.
+
